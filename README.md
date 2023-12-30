@@ -1,7 +1,7 @@
 # E-Learning-Platform
 
 
- [!TIP]
+
 dont forget to make : 
 ```
 composer install 
