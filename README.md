@@ -4,7 +4,7 @@
 
 dont forget to make : 
 ```
-composer install 
+composer install  
 ```
 Symfony CLI version 5.7.6 (c)
 2021-2023 Fabien Potencier
